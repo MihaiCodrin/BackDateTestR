@@ -1698,3 +1698,4 @@ Fixed deprecated methods in legacy code
 Fixed deprecated methods in legacy code
 localize: Add Spanish language support
 Assessment method added
+chore: Update dependencies to latest stable versions
