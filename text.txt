@@ -1697,3 +1697,4 @@ Refactoring performed
 Fixed deprecated methods in legacy code
 Fixed deprecated methods in legacy code
 localize: Add Spanish language support
+Assessment method added
