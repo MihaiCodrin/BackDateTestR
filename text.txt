@@ -1706,3 +1706,4 @@ Small fixes performed
 Customized theme for user interface
 Resolved issues reported by code analysis tools
 cleanup: Remove deprecated methods in Utils class
+localize: Add Spanish language support
