@@ -1711,3 +1711,4 @@ feat: Implement OAuth2 authentication for API
 style: Convert tabs to spaces for consistency
 Small fixes performed
 Improved error handling in file upload feature
+ci: Set up CI/CD pipeline for automated testing
