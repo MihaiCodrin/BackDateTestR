@@ -1722,3 +1722,4 @@ Added unit tests for new API endpoints
 feat: Add search functionality to user dashboard
 security: Patch XSS vulnerability in comment section
 Small fixes performed
+style: Reformat code in User class for better readability
