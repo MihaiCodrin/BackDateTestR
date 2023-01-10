@@ -1725,3 +1725,4 @@ Small fixes performed
 style: Reformat code in User class for better readability
 Fixed deprecated methods in legacy code
 Added new user authentication feature
+feat: Add search functionality to user dashboard
