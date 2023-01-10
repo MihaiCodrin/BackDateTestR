@@ -1724,3 +1724,4 @@ security: Patch XSS vulnerability in comment section
 Small fixes performed
 style: Reformat code in User class for better readability
 Fixed deprecated methods in legacy code
+Added new user authentication feature
