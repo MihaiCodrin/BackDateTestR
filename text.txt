@@ -1728,3 +1728,4 @@ Added new user authentication feature
 feat: Add search functionality to user dashboard
 Improved error handling in file upload feature
 refactor: Simplify query logic in ReportGenerator
+Fixes added
