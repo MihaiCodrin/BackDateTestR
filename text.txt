@@ -1742,3 +1742,4 @@ Fixed layout issues on mobile devices
 Resolved issues reported by code analysis tools
 chore: Update dependencies to latest stable versions
 fix: Correct typo in database schema documentation
+localize: Add Spanish language support
