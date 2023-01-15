@@ -1745,3 +1745,4 @@ fix: Correct typo in database schema documentation
 localize: Add Spanish language support
 build: Modify build script for cross-platform compatibility
 style: Reformat code in User class for better readability
+fix: Correct typo in database schema documentation
