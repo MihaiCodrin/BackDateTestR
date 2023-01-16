@@ -1751,3 +1751,4 @@ fix: Correct typo in database schema documentation
 Customized theme for user interface
 style: Reformat code in User class for better readability
 Assessment method added
+Customized theme for user interface
