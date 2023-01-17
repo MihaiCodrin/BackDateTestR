@@ -1758,3 +1758,4 @@ style: Reformat code in User class for better readability
 data: Update dataset with latest entries
 data: Update dataset with latest entries
 Program exceptions operations upgraded
+Added documentation for the setup process
