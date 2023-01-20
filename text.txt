@@ -1772,3 +1772,4 @@ Fixed deprecated methods in legacy code
 docs: Update README with new installation instructions
 Assessment method added
 Customized theme for user interface
+Added documentation for the setup process
