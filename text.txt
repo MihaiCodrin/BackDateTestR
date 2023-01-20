@@ -1773,3 +1773,4 @@ docs: Update README with new installation instructions
 Assessment method added
 Customized theme for user interface
 Added documentation for the setup process
+style: Convert tabs to spaces for consistency
