@@ -1776,3 +1776,4 @@ Added documentation for the setup process
 style: Convert tabs to spaces for consistency
 hotfix: Repair broken user login flow
 fix: Correct typo in database schema documentation
+Added unit tests for new API endpoints
