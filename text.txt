@@ -1779,3 +1779,4 @@ fix: Correct typo in database schema documentation
 Added unit tests for new API endpoints
 fix: Resolve null pointer exception in login service
 localize: Add Spanish language support
+Program exceptions operations upgraded
