@@ -1782,3 +1782,4 @@ localize: Add Spanish language support
 Program exceptions operations upgraded
 style: Convert tabs to spaces for consistency
 Program exceptions operations upgraded
+fix: Correct typo in database schema documentation
