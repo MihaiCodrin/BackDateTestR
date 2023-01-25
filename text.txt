@@ -1788,3 +1788,4 @@ ci: Set up CI/CD pipeline for automated testing
 refactor: Simplify query logic in ReportGenerator
 Updated dependencies to latest versions
 Updated dependencies to latest versions
+test: Add unit tests for UserProfileValidator
