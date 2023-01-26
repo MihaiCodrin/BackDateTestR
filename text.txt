@@ -1792,3 +1792,4 @@ test: Add unit tests for UserProfileValidator
 Refactoring performed
 localize: Add Spanish language support
 Assessment method added
+Fixed deprecated methods in legacy code
