@@ -1793,3 +1793,4 @@ Refactoring performed
 localize: Add Spanish language support
 Assessment method added
 Fixed deprecated methods in legacy code
+ci: Set up CI/CD pipeline for automated testing
