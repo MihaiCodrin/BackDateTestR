@@ -1790,3 +1790,4 @@ Updated dependencies to latest versions
 Updated dependencies to latest versions
 test: Add unit tests for UserProfileValidator
 Refactoring performed
+localize: Add Spanish language support
