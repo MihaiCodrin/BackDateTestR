@@ -1797,3 +1797,4 @@ ci: Set up CI/CD pipeline for automated testing
 style: Reformat code in User class for better readability
 Added new user authentication feature
 Assessment method added
+Customized theme for user interface
