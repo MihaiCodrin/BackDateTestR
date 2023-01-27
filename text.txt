@@ -1802,3 +1802,4 @@ Added unit tests for new API endpoints
 feat: Implement OAuth2 authentication for API
 Resolved issues reported by code analysis tools
 Added documentation for the setup process
+feat: Add search functionality to user dashboard
