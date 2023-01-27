@@ -1799,3 +1799,4 @@ Added new user authentication feature
 Assessment method added
 Customized theme for user interface
 Added unit tests for new API endpoints
+feat: Implement OAuth2 authentication for API
