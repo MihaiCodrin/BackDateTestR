@@ -1817,3 +1817,4 @@ Small fixes performed
 docs: Update README with new installation instructions
 Customized theme for user interface
 Fixed deprecated methods in legacy code
+Fixes added
