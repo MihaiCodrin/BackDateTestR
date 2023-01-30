@@ -1824,3 +1824,4 @@ Improved error handling in file upload feature
 Integrated third-party API for geolocation services
 accessibility: Improve screen reader support for navigation menu
 performance improved
+localize: Add Spanish language support
