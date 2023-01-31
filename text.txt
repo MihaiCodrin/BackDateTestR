@@ -1828,3 +1828,4 @@ localize: Add Spanish language support
 Program exceptions operations upgraded
 performance improved
 performance improved
+Fixed layout issues on mobile devices
