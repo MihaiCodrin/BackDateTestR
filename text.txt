@@ -1842,3 +1842,4 @@ Fixes added
 hotfix: Repair broken user login flow
 Refactoring performed
 fix: Resolve null pointer exception in login service
+chore: Update dependencies to latest stable versions
