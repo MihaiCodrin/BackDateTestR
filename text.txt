@@ -1841,3 +1841,4 @@ Integrated third-party API for geolocation services
 Fixes added
 hotfix: Repair broken user login flow
 Refactoring performed
+fix: Resolve null pointer exception in login service
