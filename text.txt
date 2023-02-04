@@ -1846,3 +1846,4 @@ chore: Update dependencies to latest stable versions
 Added new user authentication feature
 Added new user authentication feature
 style: Convert tabs to spaces for consistency
+fix: Correct typo in database schema documentation
