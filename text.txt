@@ -1854,3 +1854,4 @@ Added unit tests for new API endpoints
 data: Update dataset with latest entries
 Assessment method added
 performance improved
+Integrated third-party API for geolocation services
