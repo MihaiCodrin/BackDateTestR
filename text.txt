@@ -1859,3 +1859,4 @@ Integrated third-party API for geolocation services
 fix: Correct typo in database schema documentation
 style: Convert tabs to spaces for consistency
 docs: Update README with new installation instructions
+refactor: Simplify query logic in ReportGenerator
