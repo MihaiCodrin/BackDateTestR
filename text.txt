@@ -1863,3 +1863,4 @@ refactor: Simplify query logic in ReportGenerator
 Refactoring performed
 chore: Update dependencies to latest stable versions
 Resolved issues reported by code analysis tools
+Program exceptions operations upgraded
