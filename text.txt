@@ -1866,3 +1866,4 @@ Resolved issues reported by code analysis tools
 Program exceptions operations upgraded
 Program exceptions operations upgraded
 localize: Add Spanish language support
+Fixed bug in payment processing module
