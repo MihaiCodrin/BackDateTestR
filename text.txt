@@ -1861,3 +1861,4 @@ style: Convert tabs to spaces for consistency
 docs: Update README with new installation instructions
 refactor: Simplify query logic in ReportGenerator
 Refactoring performed
+chore: Update dependencies to latest stable versions
