@@ -1872,3 +1872,4 @@ Fixes added
 Fixed bug in payment processing module
 style: Reformat code in User class for better readability
 style: Reformat code in User class for better readability
+Customized theme for user interface
