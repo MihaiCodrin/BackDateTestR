@@ -1876,3 +1876,4 @@ Customized theme for user interface
 security: Patch XSS vulnerability in comment section
 Fixes added
 Assessment method added
+Fixed deprecated methods in legacy code
