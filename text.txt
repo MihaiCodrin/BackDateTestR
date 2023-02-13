@@ -1878,3 +1878,4 @@ Fixes added
 Assessment method added
 Fixed deprecated methods in legacy code
 perf: Optimize image processing for faster load times
+Program exceptions operations upgraded
