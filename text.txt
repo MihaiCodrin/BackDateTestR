@@ -1890,3 +1890,4 @@ Refactoring performed
 cleanup: Remove deprecated methods in Utils class
 docs: Update README with new installation instructions
 build: Modify build script for cross-platform compatibility
+localize: Add Spanish language support
