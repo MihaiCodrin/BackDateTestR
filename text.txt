@@ -1892,3 +1892,4 @@ docs: Update README with new installation instructions
 build: Modify build script for cross-platform compatibility
 localize: Add Spanish language support
 performance improved
+Fixed deprecated methods in legacy code
