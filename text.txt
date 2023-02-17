@@ -1897,3 +1897,4 @@ Added unit tests for new API endpoints
 feat: Add search functionality to user dashboard
 Updated dependencies to latest versions
 refactor: Simplify query logic in ReportGenerator
+performance improved
