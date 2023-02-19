@@ -1906,3 +1906,4 @@ Program exceptions operations upgraded
 Small fixes performed
 enhance: Improve user feedback messages in form submission
 accessibility: Improve screen reader support for navigation menu
+Assessment method added
