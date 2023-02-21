@@ -1912,3 +1912,4 @@ build: Modify build script for cross-platform compatibility
 Resolved issues reported by code analysis tools
 data: Update dataset with latest entries
 Fixes added
+hotfix: Repair broken user login flow
