@@ -1925,3 +1925,4 @@ Added unit tests for new API endpoints
 enhance: Improve user feedback messages in form submission
 fix: Correct typo in database schema documentation
 hotfix: Repair broken user login flow
+feat: Implement OAuth2 authentication for API
