@@ -1939,3 +1939,4 @@ Integrated third-party API for geolocation services
 feat: Implement OAuth2 authentication for API
 refactor: Simplify query logic in ReportGenerator
 fix: Resolve null pointer exception in login service
+Fixes added
