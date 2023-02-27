@@ -1942,3 +1942,4 @@ fix: Resolve null pointer exception in login service
 Fixes added
 enhance: Improve user feedback messages in form submission
 Fixed layout issues on mobile devices
+Small fixes performed
