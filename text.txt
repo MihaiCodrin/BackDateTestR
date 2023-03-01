@@ -1948,3 +1948,4 @@ ci: Set up CI/CD pipeline for automated testing
 ci: Set up CI/CD pipeline for automated testing
 style: Convert tabs to spaces for consistency
 data: Update dataset with latest entries
+refactor: Simplify query logic in ReportGenerator
