@@ -1950,3 +1950,4 @@ style: Convert tabs to spaces for consistency
 data: Update dataset with latest entries
 refactor: Simplify query logic in ReportGenerator
 Improved error handling in file upload feature
+Added unit tests for new API endpoints
