@@ -1953,3 +1953,4 @@ Improved error handling in file upload feature
 Added unit tests for new API endpoints
 style: Convert tabs to spaces for consistency
 cleanup: Remove deprecated methods in Utils class
+test: Add unit tests for UserProfileValidator
