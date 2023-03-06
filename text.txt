@@ -1963,3 +1963,4 @@ perf: Optimize image processing for faster load times
 feat: Add search functionality to user dashboard
 Small fixes performed
 perf: Optimize image processing for faster load times
+localize: Add Spanish language support
