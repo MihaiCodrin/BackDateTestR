@@ -1968,3 +1968,4 @@ style: Reformat code in User class for better readability
 style: Convert tabs to spaces for consistency
 Assessment method added
 docs: Update README with new installation instructions
+Added documentation for the setup process
