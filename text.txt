@@ -1971,3 +1971,4 @@ docs: Update README with new installation instructions
 Added documentation for the setup process
 docs: Update README with new installation instructions
 Assessment method added
+perf: Optimize image processing for faster load times
