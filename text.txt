@@ -1975,3 +1975,4 @@ perf: Optimize image processing for faster load times
 accessibility: Improve screen reader support for navigation menu
 Small fixes performed
 Small fixes performed
+perf: Optimize image processing for faster load times
