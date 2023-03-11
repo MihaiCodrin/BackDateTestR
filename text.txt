@@ -1979,3 +1979,4 @@ perf: Optimize image processing for faster load times
 data: Update dataset with latest entries
 chore: Update dependencies to latest stable versions
 Integrated third-party API for geolocation services
+Added unit tests for new API endpoints
