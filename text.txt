@@ -1993,3 +1993,4 @@ cleanup: Remove deprecated methods in Utils class
 fix: Resolve null pointer exception in login service
 build: Modify build script for cross-platform compatibility
 Small fixes performed
+feat: Implement OAuth2 authentication for API
