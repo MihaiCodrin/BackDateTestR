@@ -1988,3 +1988,4 @@ ci: Set up CI/CD pipeline for automated testing
 Fixes added
 Fixed bug in payment processing module
 docs: Update README with new installation instructions
+build: Modify build script for cross-platform compatibility
