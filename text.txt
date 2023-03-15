@@ -1991,3 +1991,4 @@ docs: Update README with new installation instructions
 build: Modify build script for cross-platform compatibility
 cleanup: Remove deprecated methods in Utils class
 fix: Resolve null pointer exception in login service
+build: Modify build script for cross-platform compatibility
