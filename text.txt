@@ -1999,3 +1999,4 @@ Improved error handling in file upload feature
 Resolved issues reported by code analysis tools
 test: Add unit tests for UserProfileValidator
 feat: Implement OAuth2 authentication for API
+fix: Resolve null pointer exception in login service
