@@ -2008,3 +2008,4 @@ Added documentation for the setup process
 Customized theme for user interface
 Fixes added
 Program exceptions operations upgraded
+hotfix: Repair broken user login flow
