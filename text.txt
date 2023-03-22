@@ -2020,3 +2020,4 @@ Small fixes performed
 feat: Implement OAuth2 authentication for API
 perf: Optimize image processing for faster load times
 Program exceptions operations upgraded
+performance improved
