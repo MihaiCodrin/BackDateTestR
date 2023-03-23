@@ -2024,3 +2024,4 @@ performance improved
 feat: Add search functionality to user dashboard
 docs: Update README with new installation instructions
 hotfix: Repair broken user login flow
+feat: Add search functionality to user dashboard
