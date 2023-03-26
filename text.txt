@@ -2026,3 +2026,4 @@ docs: Update README with new installation instructions
 hotfix: Repair broken user login flow
 feat: Add search functionality to user dashboard
 Customized theme for user interface
+build: Modify build script for cross-platform compatibility
