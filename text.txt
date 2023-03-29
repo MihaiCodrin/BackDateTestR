@@ -2044,3 +2044,4 @@ test: Add unit tests for UserProfileValidator
 Integrated third-party API for geolocation services
 chore: Update dependencies to latest stable versions
 style: Reformat code in User class for better readability
+Improved error handling in file upload feature
