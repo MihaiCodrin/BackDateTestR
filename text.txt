@@ -2056,3 +2056,4 @@ Fixed bug in payment processing module
 Refactoring performed
 Fixed deprecated methods in legacy code
 Fixed bug in payment processing module
+cleanup: Remove deprecated methods in Utils class
