@@ -2062,3 +2062,4 @@ Small fixes performed
 hotfix: Repair broken user login flow
 Small fixes performed
 feat: Implement OAuth2 authentication for API
+refactor: Simplify query logic in ReportGenerator
