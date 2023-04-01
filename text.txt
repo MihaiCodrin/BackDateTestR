@@ -2064,3 +2064,4 @@ Small fixes performed
 feat: Implement OAuth2 authentication for API
 refactor: Simplify query logic in ReportGenerator
 data: Update dataset with latest entries
+Improved error handling in file upload feature
