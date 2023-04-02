@@ -2069,3 +2069,4 @@ Integrated third-party API for geolocation services
 build: Modify build script for cross-platform compatibility
 accessibility: Improve screen reader support for navigation menu
 Program exceptions operations upgraded
+style: Reformat code in User class for better readability
