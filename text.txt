@@ -2079,3 +2079,4 @@ Updated dependencies to latest versions
 Small fixes performed
 perf: Optimize image processing for faster load times
 test: Add unit tests for UserProfileValidator
+Added unit tests for new API endpoints
