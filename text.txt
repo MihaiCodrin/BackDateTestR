@@ -2086,3 +2086,4 @@ chore: Update dependencies to latest stable versions
 Integrated third-party API for geolocation services
 ci: Set up CI/CD pipeline for automated testing
 Improved error handling in file upload feature
+Added unit tests for new API endpoints
