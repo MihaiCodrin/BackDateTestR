@@ -2090,3 +2090,4 @@ Added unit tests for new API endpoints
 enhance: Improve user feedback messages in form submission
 docs: Update README with new installation instructions
 Enhanced logging for system diagnostics
+style: Reformat code in User class for better readability
