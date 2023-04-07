@@ -2088,3 +2088,4 @@ ci: Set up CI/CD pipeline for automated testing
 Improved error handling in file upload feature
 Added unit tests for new API endpoints
 enhance: Improve user feedback messages in form submission
+docs: Update README with new installation instructions
