@@ -2112,3 +2112,4 @@ chore: Update dependencies to latest stable versions
 Added new user authentication feature
 perf: Optimize image processing for faster load times
 Fixes added
+test: Add unit tests for UserProfileValidator
