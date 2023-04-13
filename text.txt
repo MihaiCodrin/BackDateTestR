@@ -2121,3 +2121,4 @@ Customized theme for user interface
 Customized theme for user interface
 Updated dependencies to latest versions
 ci: Set up CI/CD pipeline for automated testing
+localize: Add Spanish language support
