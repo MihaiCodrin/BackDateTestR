@@ -2122,3 +2122,4 @@ Customized theme for user interface
 Updated dependencies to latest versions
 ci: Set up CI/CD pipeline for automated testing
 localize: Add Spanish language support
+cleanup: Remove deprecated methods in Utils class
