@@ -2115,3 +2115,4 @@ Fixes added
 test: Add unit tests for UserProfileValidator
 Program exceptions operations upgraded
 docs: Update README with new installation instructions
+fix: Correct typo in database schema documentation
