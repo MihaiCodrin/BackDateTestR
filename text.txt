@@ -1218,3 +1218,4 @@ Fixed bug in payment processing module
 fix: Resolve null pointer exception in login service
 Fixed layout issues on mobile devices
 Assessment method added
+Small fixes performed
