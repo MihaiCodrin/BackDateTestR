@@ -1221,3 +1221,4 @@ Assessment method added
 Small fixes performed
 fix: Correct typo in database schema documentation
 Fixed deprecated methods in legacy code
+security: Patch XSS vulnerability in comment section
