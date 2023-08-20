@@ -1226,3 +1226,4 @@ performance improved
 accessibility: Improve screen reader support for navigation menu
 test: Add unit tests for UserProfileValidator
 Fixes added
+feat: Add search functionality to user dashboard
