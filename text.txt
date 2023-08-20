@@ -1225,3 +1225,4 @@ security: Patch XSS vulnerability in comment section
 performance improved
 accessibility: Improve screen reader support for navigation menu
 test: Add unit tests for UserProfileValidator
+Fixes added
