@@ -1229,3 +1229,4 @@ Fixes added
 feat: Add search functionality to user dashboard
 performance improved
 Fixed bug in payment processing module
+feat: Add search functionality to user dashboard
