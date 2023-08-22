@@ -1231,3 +1231,4 @@ performance improved
 Fixed bug in payment processing module
 feat: Add search functionality to user dashboard
 Added unit tests for new API endpoints
+Fixed layout issues on mobile devices
