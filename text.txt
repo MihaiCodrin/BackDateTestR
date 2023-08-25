@@ -1234,3 +1234,4 @@ Added unit tests for new API endpoints
 Fixed layout issues on mobile devices
 accessibility: Improve screen reader support for navigation menu
 test: Add unit tests for UserProfileValidator
+Fixed deprecated methods in legacy code
