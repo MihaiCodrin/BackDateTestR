@@ -1237,3 +1237,4 @@ test: Add unit tests for UserProfileValidator
 Fixed deprecated methods in legacy code
 Fixes added
 Assessment method added
+Customized theme for user interface
