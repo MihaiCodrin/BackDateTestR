@@ -1248,3 +1248,4 @@ Refactoring performed
 test: Add unit tests for UserProfileValidator
 security: Patch XSS vulnerability in comment section
 Resolved issues reported by code analysis tools
+fix: Resolve null pointer exception in login service
