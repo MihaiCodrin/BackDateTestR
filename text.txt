@@ -1250,3 +1250,4 @@ security: Patch XSS vulnerability in comment section
 Resolved issues reported by code analysis tools
 fix: Resolve null pointer exception in login service
 feat: Implement OAuth2 authentication for API
+Added new user authentication feature
