@@ -1251,3 +1251,4 @@ Resolved issues reported by code analysis tools
 fix: Resolve null pointer exception in login service
 feat: Implement OAuth2 authentication for API
 Added new user authentication feature
+docs: Update README with new installation instructions
