@@ -1253,3 +1253,4 @@ feat: Implement OAuth2 authentication for API
 Added new user authentication feature
 docs: Update README with new installation instructions
 hotfix: Repair broken user login flow
+Refactoring performed
