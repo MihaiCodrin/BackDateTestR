@@ -1265,3 +1265,4 @@ Integrated third-party API for geolocation services
 build: Modify build script for cross-platform compatibility
 Added documentation for the setup process
 Added documentation for the setup process
+style: Convert tabs to spaces for consistency
