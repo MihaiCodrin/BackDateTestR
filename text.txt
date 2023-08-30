@@ -1270,3 +1270,4 @@ cleanup: Remove deprecated methods in Utils class
 security: Patch XSS vulnerability in comment section
 Customized theme for user interface
 localize: Add Spanish language support
+feat: Add search functionality to user dashboard
