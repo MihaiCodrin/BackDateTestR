@@ -1267,3 +1267,4 @@ Added documentation for the setup process
 Added documentation for the setup process
 style: Convert tabs to spaces for consistency
 cleanup: Remove deprecated methods in Utils class
+security: Patch XSS vulnerability in comment section
