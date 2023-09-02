@@ -1282,3 +1282,4 @@ hotfix: Repair broken user login flow
 Fixes added
 perf: Optimize image processing for faster load times
 localize: Add Spanish language support
+feat: Add search functionality to user dashboard
