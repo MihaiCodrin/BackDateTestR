@@ -1294,3 +1294,4 @@ feat: Implement OAuth2 authentication for API
 localize: Add Spanish language support
 docs: Update README with new installation instructions
 Updated dependencies to latest versions
+fix: Resolve null pointer exception in login service
