@@ -1296,3 +1296,4 @@ docs: Update README with new installation instructions
 Updated dependencies to latest versions
 fix: Resolve null pointer exception in login service
 Updated dependencies to latest versions
+feat: Implement OAuth2 authentication for API
