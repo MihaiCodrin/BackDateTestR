@@ -1298,3 +1298,4 @@ fix: Resolve null pointer exception in login service
 Updated dependencies to latest versions
 feat: Implement OAuth2 authentication for API
 build: Modify build script for cross-platform compatibility
+Refactoring performed
