@@ -1307,3 +1307,4 @@ fix: Correct typo in database schema documentation
 hotfix: Repair broken user login flow
 fix: Resolve null pointer exception in login service
 localize: Add Spanish language support
+ci: Set up CI/CD pipeline for automated testing
