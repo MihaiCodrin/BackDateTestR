@@ -1305,3 +1305,4 @@ fix: Correct typo in database schema documentation
 localize: Add Spanish language support
 fix: Correct typo in database schema documentation
 hotfix: Repair broken user login flow
+fix: Resolve null pointer exception in login service
