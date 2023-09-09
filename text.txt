@@ -1313,3 +1313,4 @@ Fixes added
 Enhanced logging for system diagnostics
 feat: Implement OAuth2 authentication for API
 feat: Add search functionality to user dashboard
+hotfix: Repair broken user login flow
