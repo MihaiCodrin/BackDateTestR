@@ -1324,3 +1324,4 @@ feat: Add search functionality to user dashboard
 build: Modify build script for cross-platform compatibility
 Program exceptions operations upgraded
 Program exceptions operations upgraded
+accessibility: Improve screen reader support for navigation menu
