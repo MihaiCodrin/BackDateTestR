@@ -1328,3 +1328,4 @@ accessibility: Improve screen reader support for navigation menu
 Integrated third-party API for geolocation services
 fix: Correct typo in database schema documentation
 refactor: Simplify query logic in ReportGenerator
+localize: Add Spanish language support
