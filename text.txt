@@ -1330,3 +1330,4 @@ fix: Correct typo in database schema documentation
 refactor: Simplify query logic in ReportGenerator
 localize: Add Spanish language support
 Fixes added
+cleanup: Remove deprecated methods in Utils class
