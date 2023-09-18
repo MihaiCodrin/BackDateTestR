@@ -1350,3 +1350,4 @@ fix: Correct typo in database schema documentation
 Resolved issues reported by code analysis tools
 style: Reformat code in User class for better readability
 chore: Update dependencies to latest stable versions
+build: Modify build script for cross-platform compatibility
