@@ -1353,3 +1353,4 @@ chore: Update dependencies to latest stable versions
 build: Modify build script for cross-platform compatibility
 Added new user authentication feature
 Small fixes performed
+Improved error handling in file upload feature
