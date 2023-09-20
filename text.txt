@@ -1355,3 +1355,4 @@ Added new user authentication feature
 Small fixes performed
 Improved error handling in file upload feature
 Refactoring performed
+localize: Add Spanish language support
