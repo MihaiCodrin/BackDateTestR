@@ -1360,3 +1360,4 @@ test: Add unit tests for UserProfileValidator
 Integrated third-party API for geolocation services
 test: Add unit tests for UserProfileValidator
 Added unit tests for new API endpoints
+accessibility: Improve screen reader support for navigation menu
