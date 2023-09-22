@@ -1366,3 +1366,4 @@ Small fixes performed
 enhance: Improve user feedback messages in form submission
 Added documentation for the setup process
 security: Patch XSS vulnerability in comment section
+fix: Correct typo in database schema documentation
