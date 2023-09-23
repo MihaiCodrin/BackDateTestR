@@ -1371,3 +1371,4 @@ performance improved
 Fixes added
 Added unit tests for new API endpoints
 Fixed bug in payment processing module
+feat: Implement OAuth2 authentication for API
