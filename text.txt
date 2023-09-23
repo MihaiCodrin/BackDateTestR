@@ -1372,3 +1372,4 @@ Fixes added
 Added unit tests for new API endpoints
 Fixed bug in payment processing module
 feat: Implement OAuth2 authentication for API
+accessibility: Improve screen reader support for navigation menu
