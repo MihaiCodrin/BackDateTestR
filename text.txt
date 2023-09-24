@@ -1379,3 +1379,4 @@ cleanup: Remove deprecated methods in Utils class
 Added unit tests for new API endpoints
 perf: Optimize image processing for faster load times
 Improved error handling in file upload feature
+style: Convert tabs to spaces for consistency
