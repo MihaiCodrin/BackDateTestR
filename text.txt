@@ -1383,3 +1383,4 @@ style: Convert tabs to spaces for consistency
 Enhanced logging for system diagnostics
 Updated dependencies to latest versions
 Fixes added
+test: Add unit tests for UserProfileValidator
