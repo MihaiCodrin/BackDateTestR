@@ -1385,3 +1385,4 @@ Updated dependencies to latest versions
 Fixes added
 test: Add unit tests for UserProfileValidator
 feat: Add search functionality to user dashboard
+docs: Update README with new installation instructions
