@@ -1405,3 +1405,4 @@ Improved error handling in file upload feature
 hotfix: Repair broken user login flow
 accessibility: Improve screen reader support for navigation menu
 Small fixes performed
+test: Add unit tests for UserProfileValidator
