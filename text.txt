@@ -1402,3 +1402,4 @@ Fixed layout issues on mobile devices
 accessibility: Improve screen reader support for navigation menu
 ci: Set up CI/CD pipeline for automated testing
 Improved error handling in file upload feature
+hotfix: Repair broken user login flow
