@@ -1408,3 +1408,4 @@ Small fixes performed
 test: Add unit tests for UserProfileValidator
 Resolved issues reported by code analysis tools
 Fixes added
+Program exceptions operations upgraded
