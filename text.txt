@@ -1412,3 +1412,4 @@ Program exceptions operations upgraded
 cleanup: Remove deprecated methods in Utils class
 Added unit tests for new API endpoints
 Added unit tests for new API endpoints
+style: Reformat code in User class for better readability
