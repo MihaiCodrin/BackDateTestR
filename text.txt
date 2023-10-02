@@ -1417,3 +1417,4 @@ Added unit tests for new API endpoints
 Assessment method added
 style: Convert tabs to spaces for consistency
 security: Patch XSS vulnerability in comment section
+build: Modify build script for cross-platform compatibility
