@@ -1421,3 +1421,4 @@ build: Modify build script for cross-platform compatibility
 Improved error handling in file upload feature
 localize: Add Spanish language support
 data: Update dataset with latest entries
+Fixed deprecated methods in legacy code
