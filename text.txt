@@ -1423,3 +1423,4 @@ localize: Add Spanish language support
 data: Update dataset with latest entries
 Fixed deprecated methods in legacy code
 fix: Correct typo in database schema documentation
+build: Modify build script for cross-platform compatibility
