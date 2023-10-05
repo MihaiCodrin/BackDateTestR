@@ -1435,3 +1435,4 @@ cleanup: Remove deprecated methods in Utils class
 Program exceptions operations upgraded
 performance improved
 Customized theme for user interface
+fix: Resolve null pointer exception in login service
