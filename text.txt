@@ -1469,3 +1469,4 @@ Small fixes performed
 Fixes added
 fix: Correct typo in database schema documentation
 hotfix: Repair broken user login flow
+accessibility: Improve screen reader support for navigation menu
