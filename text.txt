@@ -1468,3 +1468,4 @@ Added unit tests for new API endpoints
 Small fixes performed
 Fixes added
 fix: Correct typo in database schema documentation
+hotfix: Repair broken user login flow
