@@ -1485,3 +1485,4 @@ accessibility: Improve screen reader support for navigation menu
 hotfix: Repair broken user login flow
 Updated dependencies to latest versions
 ci: Set up CI/CD pipeline for automated testing
+Fixed layout issues on mobile devices
