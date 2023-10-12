@@ -1479,3 +1479,4 @@ feat: Implement OAuth2 authentication for API
 Small fixes performed
 perf: Optimize image processing for faster load times
 Fixed bug in payment processing module
+Improved error handling in file upload feature
