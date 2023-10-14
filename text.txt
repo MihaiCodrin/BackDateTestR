@@ -1491,3 +1491,4 @@ refactor: Simplify query logic in ReportGenerator
 Resolved issues reported by code analysis tools
 Fixed bug in payment processing module
 Added unit tests for new API endpoints
+Fixed deprecated methods in legacy code
