@@ -1497,3 +1497,4 @@ localize: Add Spanish language support
 performance improved
 test: Add unit tests for UserProfileValidator
 cleanup: Remove deprecated methods in Utils class
+cleanup: Remove deprecated methods in Utils class
