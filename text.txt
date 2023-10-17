@@ -1499,3 +1499,4 @@ test: Add unit tests for UserProfileValidator
 cleanup: Remove deprecated methods in Utils class
 cleanup: Remove deprecated methods in Utils class
 Fixed deprecated methods in legacy code
+Resolved issues reported by code analysis tools
