@@ -1506,3 +1506,4 @@ feat: Implement OAuth2 authentication for API
 style: Convert tabs to spaces for consistency
 Fixed layout issues on mobile devices
 perf: Optimize image processing for faster load times
+Added documentation for the setup process
