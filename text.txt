@@ -1511,3 +1511,4 @@ performance improved
 Small fixes performed
 docs: Update README with new installation instructions
 Fixed deprecated methods in legacy code
+Refactoring performed
