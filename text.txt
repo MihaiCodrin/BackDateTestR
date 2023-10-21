@@ -1514,3 +1514,4 @@ Fixed deprecated methods in legacy code
 Refactoring performed
 style: Reformat code in User class for better readability
 style: Reformat code in User class for better readability
+Assessment method added
