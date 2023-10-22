@@ -1517,3 +1517,4 @@ style: Reformat code in User class for better readability
 Assessment method added
 Integrated third-party API for geolocation services
 Updated dependencies to latest versions
+Assessment method added
