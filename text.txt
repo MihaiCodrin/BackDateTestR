@@ -1529,3 +1529,4 @@ Customized theme for user interface
 hotfix: Repair broken user login flow
 localize: Add Spanish language support
 perf: Optimize image processing for faster load times
+Added documentation for the setup process
