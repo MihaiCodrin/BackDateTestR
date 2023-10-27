@@ -1540,3 +1540,4 @@ security: Patch XSS vulnerability in comment section
 localize: Add Spanish language support
 Fixed deprecated methods in legacy code
 Improved error handling in file upload feature
+localize: Add Spanish language support
