@@ -1541,3 +1541,4 @@ localize: Add Spanish language support
 Fixed deprecated methods in legacy code
 Improved error handling in file upload feature
 localize: Add Spanish language support
+feat: Implement OAuth2 authentication for API
