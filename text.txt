@@ -1548,3 +1548,4 @@ Updated dependencies to latest versions
 Added new user authentication feature
 Improved error handling in file upload feature
 Added documentation for the setup process
+build: Modify build script for cross-platform compatibility
