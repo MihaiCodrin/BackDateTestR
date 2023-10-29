@@ -1551,3 +1551,4 @@ Added documentation for the setup process
 build: Modify build script for cross-platform compatibility
 refactor: Simplify query logic in ReportGenerator
 fix: Correct typo in database schema documentation
+hotfix: Repair broken user login flow
