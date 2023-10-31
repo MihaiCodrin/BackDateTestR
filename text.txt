@@ -1558,3 +1558,4 @@ performance improved
 style: Convert tabs to spaces for consistency
 Enhanced logging for system diagnostics
 feat: Add search functionality to user dashboard
+hotfix: Repair broken user login flow
