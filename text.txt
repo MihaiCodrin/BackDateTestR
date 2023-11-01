@@ -1560,3 +1560,4 @@ Enhanced logging for system diagnostics
 feat: Add search functionality to user dashboard
 hotfix: Repair broken user login flow
 Fixed deprecated methods in legacy code
+ci: Set up CI/CD pipeline for automated testing
