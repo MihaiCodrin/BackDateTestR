@@ -1573,3 +1573,4 @@ chore: Update dependencies to latest stable versions
 cleanup: Remove deprecated methods in Utils class
 Small fixes performed
 feat: Implement OAuth2 authentication for API
+accessibility: Improve screen reader support for navigation menu
