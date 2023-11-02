@@ -1569,3 +1569,4 @@ style: Convert tabs to spaces for consistency
 Fixed deprecated methods in legacy code
 Improved error handling in file upload feature
 docs: Update README with new installation instructions
+chore: Update dependencies to latest stable versions
