@@ -1580,3 +1580,4 @@ Fixed bug in payment processing module
 Fixed bug in payment processing module
 fix: Correct typo in database schema documentation
 Small fixes performed
+Added unit tests for new API endpoints
