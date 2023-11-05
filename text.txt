@@ -1587,3 +1587,4 @@ fix: Resolve null pointer exception in login service
 Small fixes performed
 Improved error handling in file upload feature
 hotfix: Repair broken user login flow
+Added unit tests for new API endpoints
