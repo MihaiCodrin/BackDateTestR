@@ -1583,3 +1583,4 @@ Small fixes performed
 Added unit tests for new API endpoints
 feat: Add search functionality to user dashboard
 performance improved
+fix: Resolve null pointer exception in login service
