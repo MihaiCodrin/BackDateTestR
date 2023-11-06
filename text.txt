@@ -1594,3 +1594,4 @@ Program exceptions operations upgraded
 Added documentation for the setup process
 feat: Implement OAuth2 authentication for API
 performance improved
+Added documentation for the setup process
