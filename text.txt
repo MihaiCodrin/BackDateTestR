@@ -2130,3 +2130,4 @@ Fixed bug in payment processing module
 ci: Set up CI/CD pipeline for automated testing
 Refactoring performed
 performance improved
+build: Modify build script for cross-platform compatibility
