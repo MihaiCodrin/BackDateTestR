@@ -2125,3 +2125,4 @@ localize: Add Spanish language support
 cleanup: Remove deprecated methods in Utils class
 new text
 refactor: Simplify query logic in ReportGenerator
+build: Modify build script for cross-platform compatibility
