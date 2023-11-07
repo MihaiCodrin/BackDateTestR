@@ -2124,3 +2124,4 @@ ci: Set up CI/CD pipeline for automated testing
 localize: Add Spanish language support
 cleanup: Remove deprecated methods in Utils class
 new text
+refactor: Simplify query logic in ReportGenerator
