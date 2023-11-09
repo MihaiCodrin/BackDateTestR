@@ -2134,3 +2134,4 @@ build: Modify build script for cross-platform compatibility
 style: Reformat code in User class for better readability
 feat: Add search functionality to user dashboard
 perf: Optimize image processing for faster load times
+Refactoring performed
