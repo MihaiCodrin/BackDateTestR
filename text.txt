@@ -2147,3 +2147,4 @@ hotfix: Repair broken user login flow
 style: Convert tabs to spaces for consistency
 Fixes added
 docs: Update README with new installation instructions
+Added unit tests for new API endpoints
