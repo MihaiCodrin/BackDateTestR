@@ -2144,3 +2144,4 @@ enhance: Improve user feedback messages in form submission
 Updated dependencies to latest versions
 Program exceptions operations upgraded
 hotfix: Repair broken user login flow
+style: Convert tabs to spaces for consistency
