@@ -2146,3 +2146,4 @@ Program exceptions operations upgraded
 hotfix: Repair broken user login flow
 style: Convert tabs to spaces for consistency
 Fixes added
+docs: Update README with new installation instructions
