@@ -1607,3 +1607,4 @@ Fixes added
 refactor: Simplify query logic in ReportGenerator
 Refactoring performed
 Fixed bug in payment processing module
+Added unit tests for new API endpoints
