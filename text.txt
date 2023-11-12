@@ -2150,3 +2150,4 @@ docs: Update README with new installation instructions
 Added unit tests for new API endpoints
 data: Update dataset with latest entries
 style: Convert tabs to spaces for consistency
+Small fixes performed
