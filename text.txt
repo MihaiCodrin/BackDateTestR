@@ -2151,3 +2151,4 @@ Added unit tests for new API endpoints
 data: Update dataset with latest entries
 style: Convert tabs to spaces for consistency
 Small fixes performed
+feat: Add search functionality to user dashboard
