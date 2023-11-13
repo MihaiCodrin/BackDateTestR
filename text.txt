@@ -1613,3 +1613,4 @@ chore: Update dependencies to latest stable versions
 Fixed layout issues on mobile devices
 Assessment method added
 enhance: Improve user feedback messages in form submission
+perf: Optimize image processing for faster load times
