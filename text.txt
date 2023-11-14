@@ -2159,3 +2159,4 @@ performance improved
 Added documentation for the setup process
 data: Update dataset with latest entries
 Fixes added
+chore: Update dependencies to latest stable versions
