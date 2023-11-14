@@ -2161,3 +2161,4 @@ data: Update dataset with latest entries
 Fixes added
 chore: Update dependencies to latest stable versions
 Added unit tests for new API endpoints
+Assessment method added
