@@ -2166,3 +2166,4 @@ hotfix: Repair broken user login flow
 Fixed deprecated methods in legacy code
 fix: Resolve null pointer exception in login service
 fix: Resolve null pointer exception in login service
+Fixes added
