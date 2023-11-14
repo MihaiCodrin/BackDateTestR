@@ -1616,3 +1616,4 @@ enhance: Improve user feedback messages in form submission
 perf: Optimize image processing for faster load times
 feat: Implement OAuth2 authentication for API
 Fixed layout issues on mobile devices
+hotfix: Repair broken user login flow
