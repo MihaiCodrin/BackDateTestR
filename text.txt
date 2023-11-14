@@ -2163,3 +2163,4 @@ chore: Update dependencies to latest stable versions
 Added unit tests for new API endpoints
 Assessment method added
 hotfix: Repair broken user login flow
+Fixed deprecated methods in legacy code
