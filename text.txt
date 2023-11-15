@@ -1618,3 +1618,4 @@ feat: Implement OAuth2 authentication for API
 Fixed layout issues on mobile devices
 hotfix: Repair broken user login flow
 docs: Update README with new installation instructions
+docs: Update README with new installation instructions
