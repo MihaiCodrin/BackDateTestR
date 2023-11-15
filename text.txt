@@ -2169,3 +2169,4 @@ fix: Resolve null pointer exception in login service
 Fixes added
 Fixed bug in payment processing module
 style: Reformat code in User class for better readability
+accessibility: Improve screen reader support for navigation menu
