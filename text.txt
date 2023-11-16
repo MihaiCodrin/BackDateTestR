@@ -1620,3 +1620,4 @@ hotfix: Repair broken user login flow
 docs: Update README with new installation instructions
 docs: Update README with new installation instructions
 Assessment method added
+Fixed deprecated methods in legacy code
