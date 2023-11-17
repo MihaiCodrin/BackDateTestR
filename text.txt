@@ -2176,3 +2176,4 @@ feat: Implement OAuth2 authentication for API
 Updated dependencies to latest versions
 perf: Optimize image processing for faster load times
 Customized theme for user interface
+fix: Resolve null pointer exception in login service
