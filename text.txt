@@ -1622,3 +1622,4 @@ docs: Update README with new installation instructions
 Assessment method added
 Fixed deprecated methods in legacy code
 hotfix: Repair broken user login flow
+chore: Update dependencies to latest stable versions
