@@ -1628,3 +1628,4 @@ Added unit tests for new API endpoints
 data: Update dataset with latest entries
 style: Reformat code in User class for better readability
 data: Update dataset with latest entries
+Added unit tests for new API endpoints
