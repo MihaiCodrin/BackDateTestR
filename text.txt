@@ -1626,3 +1626,4 @@ chore: Update dependencies to latest stable versions
 Customized theme for user interface
 Added unit tests for new API endpoints
 data: Update dataset with latest entries
+style: Reformat code in User class for better readability
