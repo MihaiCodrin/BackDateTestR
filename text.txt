@@ -1624,3 +1624,4 @@ Fixed deprecated methods in legacy code
 hotfix: Repair broken user login flow
 chore: Update dependencies to latest stable versions
 Customized theme for user interface
+Added unit tests for new API endpoints
