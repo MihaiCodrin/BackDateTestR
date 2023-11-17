@@ -2178,3 +2178,4 @@ perf: Optimize image processing for faster load times
 Customized theme for user interface
 fix: Resolve null pointer exception in login service
 style: Reformat code in User class for better readability
+refactor: Simplify query logic in ReportGenerator
