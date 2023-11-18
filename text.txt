@@ -2181,3 +2181,4 @@ style: Reformat code in User class for better readability
 refactor: Simplify query logic in ReportGenerator
 chore: Update dependencies to latest stable versions
 Customized theme for user interface
+test: Add unit tests for UserProfileValidator
