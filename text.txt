@@ -1630,3 +1630,4 @@ style: Reformat code in User class for better readability
 data: Update dataset with latest entries
 Added unit tests for new API endpoints
 cleanup: Remove deprecated methods in Utils class
+Added documentation for the setup process
