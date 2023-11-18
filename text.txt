@@ -2180,3 +2180,4 @@ fix: Resolve null pointer exception in login service
 style: Reformat code in User class for better readability
 refactor: Simplify query logic in ReportGenerator
 chore: Update dependencies to latest stable versions
+Customized theme for user interface
