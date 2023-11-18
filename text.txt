@@ -2182,3 +2182,4 @@ refactor: Simplify query logic in ReportGenerator
 chore: Update dependencies to latest stable versions
 Customized theme for user interface
 test: Add unit tests for UserProfileValidator
+cleanup: Remove deprecated methods in Utils class
