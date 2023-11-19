@@ -1633,3 +1633,4 @@ cleanup: Remove deprecated methods in Utils class
 Added documentation for the setup process
 Small fixes performed
 perf: Optimize image processing for faster load times
+docs: Update README with new installation instructions
