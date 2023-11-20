@@ -2184,3 +2184,4 @@ Customized theme for user interface
 test: Add unit tests for UserProfileValidator
 cleanup: Remove deprecated methods in Utils class
 localize: Add Spanish language support
+style: Reformat code in User class for better readability
