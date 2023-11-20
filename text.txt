@@ -1640,3 +1640,4 @@ perf: Optimize image processing for faster load times
 feat: Add search functionality to user dashboard
 style: Convert tabs to spaces for consistency
 Fixes added
+refactor: Simplify query logic in ReportGenerator
