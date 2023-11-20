@@ -2186,3 +2186,4 @@ cleanup: Remove deprecated methods in Utils class
 localize: Add Spanish language support
 style: Reformat code in User class for better readability
 test: Add unit tests for UserProfileValidator
+feat: Add search functionality to user dashboard
