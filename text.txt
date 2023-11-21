@@ -1646,3 +1646,4 @@ Fixed bug in payment processing module
 performance improved
 Updated dependencies to latest versions
 docs: Update README with new installation instructions
+Added documentation for the setup process
