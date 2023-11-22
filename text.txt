@@ -1653,3 +1653,4 @@ Fixes added
 Improved error handling in file upload feature
 Fixes added
 cleanup: Remove deprecated methods in Utils class
+test: Add unit tests for UserProfileValidator
