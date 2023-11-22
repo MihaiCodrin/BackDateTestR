@@ -1649,3 +1649,4 @@ docs: Update README with new installation instructions
 Added documentation for the setup process
 feat: Implement OAuth2 authentication for API
 test: Add unit tests for UserProfileValidator
+Fixes added
