@@ -2199,3 +2199,4 @@ Added unit tests for new API endpoints
 Added new user authentication feature
 build: Modify build script for cross-platform compatibility
 security: Patch XSS vulnerability in comment section
+test: Add unit tests for UserProfileValidator
