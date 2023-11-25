@@ -2208,3 +2208,4 @@ accessibility: Improve screen reader support for navigation menu
 localize: Add Spanish language support
 Fixes added
 localize: Add Spanish language support
+chore: Update dependencies to latest stable versions
