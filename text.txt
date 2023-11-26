@@ -1666,3 +1666,4 @@ performance improved
 localize: Add Spanish language support
 Added documentation for the setup process
 Fixed layout issues on mobile devices
+security: Patch XSS vulnerability in comment section
