@@ -1669,3 +1669,4 @@ Fixed layout issues on mobile devices
 security: Patch XSS vulnerability in comment section
 Added documentation for the setup process
 refactor: Simplify query logic in ReportGenerator
+feat: Add search functionality to user dashboard
