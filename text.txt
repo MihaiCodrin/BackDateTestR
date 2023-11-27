@@ -1673,3 +1673,4 @@ feat: Add search functionality to user dashboard
 test: Add unit tests for UserProfileValidator
 Fixed bug in payment processing module
 feat: Add search functionality to user dashboard
+test: Add unit tests for UserProfileValidator
