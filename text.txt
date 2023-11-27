@@ -2213,3 +2213,4 @@ hotfix: Repair broken user login flow
 performance improved
 Customized theme for user interface
 Added new user authentication feature
+localize: Add Spanish language support
