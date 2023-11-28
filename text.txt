@@ -1678,3 +1678,4 @@ localize: Add Spanish language support
 Customized theme for user interface
 Added unit tests for new API endpoints
 Refactoring performed
+security: Patch XSS vulnerability in comment section
