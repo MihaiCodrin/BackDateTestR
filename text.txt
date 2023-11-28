@@ -1676,3 +1676,4 @@ feat: Add search functionality to user dashboard
 test: Add unit tests for UserProfileValidator
 localize: Add Spanish language support
 Customized theme for user interface
+Added unit tests for new API endpoints
