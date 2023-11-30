@@ -2221,3 +2221,4 @@ Small fixes performed
 Program exceptions operations upgraded
 Integrated third-party API for geolocation services
 hotfix: Repair broken user login flow
+cleanup: Remove deprecated methods in Utils class
