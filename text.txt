@@ -2224,3 +2224,4 @@ hotfix: Repair broken user login flow
 cleanup: Remove deprecated methods in Utils class
 feat: Implement OAuth2 authentication for API
 chore: Update dependencies to latest stable versions
+Fixed layout issues on mobile devices
