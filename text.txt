@@ -2226,3 +2226,4 @@ feat: Implement OAuth2 authentication for API
 chore: Update dependencies to latest stable versions
 Fixed layout issues on mobile devices
 Added documentation for the setup process
+perf: Optimize image processing for faster load times
