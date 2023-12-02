@@ -2233,3 +2233,4 @@ enhance: Improve user feedback messages in form submission
 Refactoring performed
 Customized theme for user interface
 Program exceptions operations upgraded
+build: Modify build script for cross-platform compatibility
