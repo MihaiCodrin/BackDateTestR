@@ -2235,3 +2235,4 @@ Customized theme for user interface
 Program exceptions operations upgraded
 build: Modify build script for cross-platform compatibility
 Integrated third-party API for geolocation services
+performance improved
