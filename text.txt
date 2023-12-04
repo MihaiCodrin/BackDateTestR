@@ -2242,3 +2242,4 @@ Added documentation for the setup process
 Fixes added
 Updated dependencies to latest versions
 Small fixes performed
+accessibility: Improve screen reader support for navigation menu
