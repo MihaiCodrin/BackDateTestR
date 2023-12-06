@@ -2250,3 +2250,4 @@ security: Patch XSS vulnerability in comment section
 docs: Update README with new installation instructions
 Updated dependencies to latest versions
 Program exceptions operations upgraded
+hotfix: Repair broken user login flow
