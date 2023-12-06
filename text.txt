@@ -2251,3 +2251,4 @@ docs: Update README with new installation instructions
 Updated dependencies to latest versions
 Program exceptions operations upgraded
 hotfix: Repair broken user login flow
+ci: Set up CI/CD pipeline for automated testing
