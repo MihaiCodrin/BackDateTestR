@@ -2252,3 +2252,4 @@ Updated dependencies to latest versions
 Program exceptions operations upgraded
 hotfix: Repair broken user login flow
 ci: Set up CI/CD pipeline for automated testing
+Program exceptions operations upgraded
