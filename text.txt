@@ -2265,3 +2265,4 @@ Updated dependencies to latest versions
 performance improved
 cleanup: Remove deprecated methods in Utils class
 refactor: Simplify query logic in ReportGenerator
+feat: Add search functionality to user dashboard
