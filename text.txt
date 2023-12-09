@@ -2261,3 +2261,4 @@ fix: Resolve null pointer exception in login service
 feat: Implement OAuth2 authentication for API
 Fixes added
 Fixed layout issues on mobile devices
+Updated dependencies to latest versions
