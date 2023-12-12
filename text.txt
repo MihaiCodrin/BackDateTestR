@@ -2275,3 +2275,4 @@ perf: Optimize image processing for faster load times
 style: Convert tabs to spaces for consistency
 Program exceptions operations upgraded
 cleanup: Remove deprecated methods in Utils class
+style: Reformat code in User class for better readability
