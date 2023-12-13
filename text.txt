@@ -2276,3 +2276,4 @@ style: Convert tabs to spaces for consistency
 Program exceptions operations upgraded
 cleanup: Remove deprecated methods in Utils class
 style: Reformat code in User class for better readability
+Added unit tests for new API endpoints
