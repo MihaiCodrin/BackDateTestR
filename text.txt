@@ -2285,3 +2285,4 @@ Updated dependencies to latest versions
 Small fixes performed
 Assessment method added
 fix: Correct typo in database schema documentation
+docs: Update README with new installation instructions
