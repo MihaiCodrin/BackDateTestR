@@ -2284,3 +2284,4 @@ Updated dependencies to latest versions
 Updated dependencies to latest versions
 Small fixes performed
 Assessment method added
+fix: Correct typo in database schema documentation
