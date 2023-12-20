@@ -2311,3 +2311,4 @@ Enhanced logging for system diagnostics
 ci: Set up CI/CD pipeline for automated testing
 Assessment method added
 feat: Implement OAuth2 authentication for API
+docs: Update README with new installation instructions
