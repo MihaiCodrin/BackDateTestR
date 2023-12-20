@@ -2308,3 +2308,4 @@ enhance: Improve user feedback messages in form submission
 feat: Add search functionality to user dashboard
 accessibility: Improve screen reader support for navigation menu
 Enhanced logging for system diagnostics
+ci: Set up CI/CD pipeline for automated testing
