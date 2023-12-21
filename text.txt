@@ -2317,3 +2317,4 @@ style: Reformat code in User class for better readability
 chore: Update dependencies to latest stable versions
 fix: Resolve null pointer exception in login service
 build: Modify build script for cross-platform compatibility
+style: Convert tabs to spaces for consistency
