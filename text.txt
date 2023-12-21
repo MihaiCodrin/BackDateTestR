@@ -2315,3 +2315,4 @@ docs: Update README with new installation instructions
 fix: Resolve null pointer exception in login service
 style: Reformat code in User class for better readability
 chore: Update dependencies to latest stable versions
+fix: Resolve null pointer exception in login service
