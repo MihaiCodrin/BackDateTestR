@@ -2314,3 +2314,4 @@ feat: Implement OAuth2 authentication for API
 docs: Update README with new installation instructions
 fix: Resolve null pointer exception in login service
 style: Reformat code in User class for better readability
+chore: Update dependencies to latest stable versions
