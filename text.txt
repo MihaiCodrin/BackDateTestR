@@ -2324,3 +2324,4 @@ cleanup: Remove deprecated methods in Utils class
 fix: Correct typo in database schema documentation
 Assessment method added
 Customized theme for user interface
+feat: Implement OAuth2 authentication for API
