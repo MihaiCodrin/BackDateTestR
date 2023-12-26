@@ -2338,3 +2338,4 @@ style: Reformat code in User class for better readability
 refactor: Simplify query logic in ReportGenerator
 Small fixes performed
 perf: Optimize image processing for faster load times
+docs: Update README with new installation instructions
