@@ -2339,3 +2339,4 @@ refactor: Simplify query logic in ReportGenerator
 Small fixes performed
 perf: Optimize image processing for faster load times
 docs: Update README with new installation instructions
+Fixed deprecated methods in legacy code
